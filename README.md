@@ -3,6 +3,7 @@ In this notebook, I've built a recurrent neural network that functions as part o
 
 ## Example
 Input:  new jersey is sometimes quiet during autumn , and it is snowy in april .
+
 Output:  new jersey est parfois calme pendant l' automne , et il est neigeux en avril .
 
 ## Install
